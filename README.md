@@ -52,4 +52,4 @@ Chaque fichier Python contient une implémentation spécifique d'une méthode de
 Les contributions sont les bienvenues ! Veuillez ouvrir une issue ou une pull request pour toute amélioration ou correction.
 
 ## License
-MIT © 2025 [Aya Ben Mabrouk]
+[MIT](LICENSE) © 2025 [Aya Ben Mabrouk]
